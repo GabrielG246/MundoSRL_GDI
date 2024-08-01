@@ -1,5 +1,5 @@
-import controller
+import controllers.main_controller as main_controller
 
 
-controller.CrearBD()
-controller.CrearTablas()
+#main_controller.CrearBD()
+main_controller.CrearTablas()
